@@ -1,0 +1,68 @@
+a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md
+
+TEST VARIABLES TO READ ALL 12 TEST FILES
+test_sub <- 
+test_feature <- 
+test_activity <- 
+test_body_acc_x <- 
+test_body_acc_y <- 
+test_body_acc_z <- 
+test_body_gyro_x <- 
+test_body_gyro_y <- 
+test_body_gyro_z <- 
+test_total_acc_x <- 
+test_total_acc_y <- 
+test_total_acc_z <- 
+
+TRAIN VARIABLES TO READ ALL 12 TRAIN FILES
+train_sub <- 
+train_feature <- 
+train_activity <- 
+train_body_acc_x <- 
+train_body_acc_y <- 
+train_body_acc_z <- 
+train_body_gyro_x <- 
+train_body_gyro_y <- 
+train_body_gyro_z <- 
+train_total_acc_x <- 
+train_total_acc_y <- 
+train_total_acc_z <- 
+
+FINAL COMBINES TEST VARIABLE
+test_final<-
+
+FINAL COMBINES TRAIN VARIABLE
+train_final<-
+
+FINAL COMBINES TEST AND TRAIN VARIABLE
+final<-
+
+FINAL COMBINED SORTED VARIABLE
+final_sort<-
+
+FEATURES NAME CHARACTER DATA FRAME
+features <- 
+
+VARIABLES WITH MEAN AND STD NAMES FROM FEATURES DATA FRAME
+mean_vec<-
+std_vec<-
+col_vec<-
+
+VARIABLE AFTER SELECTING ONLY MEAN AND STD COLUMNS FROM FINAL DATA FRAME
+final_sort_sub<-
+
+AVERAGING FINAL DATA FRAME BASED ON ACTIVITY AND SUBJECT
+avg_activity_subject <- 
+
+FINAL TIDY DATA SET VAriable
+Final_tidy_data<-
+
+
+
+
+ 
+
+
+
+
+
